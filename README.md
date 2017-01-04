@@ -17,9 +17,9 @@ Bonus: when you need to find that utility function you wrote last year, it's loc
 ## Usage
 
 1. `git clone` this
-2. 
+2. either:
     1. create a scratch namespace
-    2. go to the namespace for a lib you're interested in
+    2. or go to the namespace for a lib you're interested in
 3. Tinker!
 
 Congrtaulations, you just saved 30sec of setup time!
