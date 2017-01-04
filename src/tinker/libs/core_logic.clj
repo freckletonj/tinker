@@ -1,4 +1,4 @@
-(ns tinker.core-logic
+(ns tinker.libs.core-logic
   (:require [clojure.core.logic
              :refer [run* run
                      fresh

@@ -1,4 +1,4 @@
-(ns tinker.core-async
+(ns tinker.libs.core-async
   (:require [clojure.core.async
              :refer [<! <!!
                      >! >!!
