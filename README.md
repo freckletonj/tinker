@@ -2,7 +2,9 @@
 
 > Because life's too short to fuss with setting up every one-off project
 
-Format: ![](https://imgs.xkcd.com/comics/is_it_worth_the_time.png)
+![](https://imgs.xkcd.com/comics/is_it_worth_the_time.png)
+
+
 [xkcd: Is It Worth The Time](https://imgs.xkcd.com/comics/is_it_worth_the_time.png)
 
 1. A no-setup-required scratch pad for a "scripting" session
@@ -15,9 +17,9 @@ Bonus: when you need to find that utility function you wrote last year, it's loc
 ## Usage
 
 1. `git clone` this
-2.
-    a. create a scratch namespace
-    b. go to the namespace for a lib you're interested in
+2. 
+    1. create a scratch namespace
+    2. go to the namespace for a lib you're interested in
 3. Tinker!
 
 Congrtaulations, you just saved 30sec of setup time!
